@@ -1,0 +1,15 @@
+.temperature {
+  position: relative;
+  display: inline-block; /* Asegura que el contenedor abarque solo el espacio necesario */
+}
+
+.degree {
+  position: absolute;
+  top: -0.5em; /* Ajusta según sea necesario */
+  right: -0.5em; /* Ajusta según sea necesario */
+  font-size: 0.5em;
+}
+
+.card{
+  width: 450px;
+}

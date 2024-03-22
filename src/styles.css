@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  /* background-color: #3e4451;
+  color: white; */
+  display: flex;
+  justify-content: center; /* Centrar horizontalmente */
+  align-items: center; /* Centrar verticalmente */
+  height: 100vh; /* Establecer altura al 100% del viewport */
+  width: 100%;
+}
